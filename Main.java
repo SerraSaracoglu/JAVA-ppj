@@ -8,7 +8,7 @@ import java.util.Scanner;
 * |----------*/
 
 
-public class Main {
+public class Histogram {
     public static void main(String[] args) {
         int max;
         Scanner scan = new Scanner(System.in);
